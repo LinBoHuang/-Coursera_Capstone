@@ -2,7 +2,7 @@
 ### Applied Data Science Capstone by IBM/Coursera
 
 ## Table of contents
-* [!.Introduction: Business Problem](#introduction)
+* [1.Introduction: Business Problem](#introduction)
 * [2.Data](#data)
 * [3.Methodology](#methodology)
 * [4.Analysis](#analysis)
